@@ -1,5 +1,8 @@
 # Python-Scanner
-Network Scanner and write to DB
+
+What this script can do ?
+This script scanning the all network IP address and resolving to Hostname !
+
 
 This script scanning the network according to the network ID and the Subnet and insert the values into MySQL databse.
 Additionally, each scan can be filtered by a port number
